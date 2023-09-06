@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Centered Div Example</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .centered-div {
+            width: calc(100vw - 2px);
+            height: calc(100vh - 2px);
+            border: 2px solid black;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-div">
+        <h1>Hello, Centered Div!</h1>
+        <p>This div is centered in the middle of the screen and is 2 pixels smaller in width and height than the viewport.</p>
+    </div>
+</body>
+</html>
