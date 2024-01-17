@@ -13,18 +13,92 @@
         }
 
         .centered-div {
-            width: calc(100vw - 2px);
-            height: calc(100vh - 2px);
+            width: calc(100vw - 100px);
+            height: calc(100vh - 100px);
             border: 2px solid black;
             text-align: center;
             padding: 20px;
+            background:rgb(149, 144, 98);
+            position:relative;
+            
         }
+        #player1 {
+            background:rgb(34, 72, 34);
+            text-align: center;
+            padding: 20px;
+            position:absolute;
+            left:25%;
+        }
+        #player2 {
+            background:rgb(34, 72, 34);
+            position:absolute;
+            text-align: center;
+            bottom:10px;
+            left:25%;
+            padding: 20px;
+        }
+        button{
+            background-color:#0a0a23;
+            color: blue;
+            border-radius:10px;
+            box-shadow: 0px 0px 2px 2px rgb(253, 253, 253);
+        }
+        button:hover{
+            color: purple;
+        }
+        button:active{
+            color: rgb(233, 17, 233);
+            background-color:#3a3a4d;
+        }
+        #Attack{
+            position: absolute;
+            right:50%;
+            bottom:50%;
+        }
+        
     </style>
 </head>
 <body>
+    
+
     <div class="centered-div">
-        <h1>Hello, Centered Div!</h1>
-        <p>This div is centered in the middle of the screen and is 2 pixels smaller in width and height than the viewport.</p>
+        <div id="player1">
+            <h1>Hello, Centered Div!</h1>
+            <p>This div is centered in the middle of the screen and is 2 pixels smaller in width and height than the viewport.</p>
+            
+            <div id="p1h1">
+                <p id="p1h1Text">p1h1</p>
+            </div>
+            <button type="button" onclick="Select('p1','h1')">Select</button>
+
+            <div id="p1h2">
+                <p>p1h2</p>
+            </div>
+            <button type="button" onclick="Select('p1','h2')">Select</button>
+
+
+        </div>
+        <button type="button" id="Attack" onclick="Button()">Attack</button>
+        
+        <div id="player2">
+             
+
+            <div id="p2h1">
+                <p>p2h1</p>
+            </div>  
+            <button type="button" onclick="Select('p2','h1')">Select</button>
+
+            <div id="p2h2">
+                <p>p2h2</p>
+            </div>
+            <button type="button" onclick="Select('p2','h2')">Select</button>
+
+
+            <h1>Hello, Centered Div!</h1>
+            <p>This div is centered in the middle of the screen and is 2 pixels smaller in width and height than the viewport.</p>
+        </div>
     </div>
+    <script src="Chopsticks.js"></script>
+    
 </body>
 </html>
