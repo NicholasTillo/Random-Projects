@@ -1,0 +1,35 @@
+[gd_scene load_steps=3 format=3 uid="uid://d2epedwpyvidt"]
+
+[ext_resource type="Script" path="res://hud.cs" id="1_b8og7"]
+[ext_resource type="PackedScene" uid="uid://dxq5j12ak8dmw" path="res://cardReal.tscn" id="1_uf1wu"]
+
+[node name="HUD" type="CanvasLayer"]
+script = ExtResource("1_b8og7")
+
+[node name="Score" type="Label" parent="."]
+offset_right = 49.0
+offset_bottom = 29.0
+scale = Vector2(2.37317, 2.28463)
+text = "0
+"
+
+[node name="Hand" type="HBoxContainer" parent="."]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -150.0
+offset_top = -60.0
+offset_right = 150.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="Control" parent="Hand" instance=ExtResource("1_uf1wu")]
+layout_mode = 2
+
+[node name="Control2" parent="Hand" instance=ExtResource("1_uf1wu")]
+layout_mode = 2
+
+[node name="Control3" parent="Hand" instance=ExtResource("1_uf1wu")]
+layout_mode = 2

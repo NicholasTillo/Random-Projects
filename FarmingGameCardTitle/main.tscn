@@ -1,0 +1,47 @@
+[gd_scene load_steps=7 format=3 uid="uid://d2txpw3eld24g"]
+
+[ext_resource type="Script" path="res://main.cs" id="1_8uvom"]
+[ext_resource type="PackedScene" uid="uid://otyvq7iq21mr" path="res://neutral.tscn" id="2_xpchi"]
+[ext_resource type="PackedScene" uid="uid://22ofshreaia6" path="res://MousePress.tscn" id="3_sxxx3"]
+[ext_resource type="PackedScene" uid="uid://d2epedwpyvidt" path="res://hud.tscn" id="3_tkpna"]
+[ext_resource type="PackedScene" uid="uid://bv3botgsdw0rb" path="res://CardController.tscn" id="4_r2j3t"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_sdacg"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_8uvom")
+NeurtalScene = ExtResource("2_xpchi")
+ButtonInstantiated = ExtResource("3_sxxx3")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="Farm" type="Area2D" parent="."]
+position = Vector2(450, 350)
+scale = Vector2(30, 30)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Farm"]
+shape = SubResource("RectangleShape2D_sdacg")
+
+[node name="ColorRect" type="ColorRect" parent="Farm/CollisionShape2D"]
+z_index = 1
+offset_left = -10.0
+offset_top = -10.0
+offset_right = 30.0
+offset_bottom = 30.0
+scale = Vector2(0.501298, 0.500535)
+mouse_filter = 1
+color = Color(0.619608, 0.65098, 0.403922, 1)
+
+[node name="CardController" parent="." instance=ExtResource("4_r2j3t")]
+
+[node name="HUD" parent="." instance=ExtResource("3_tkpna")]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -3.05176e-05
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
+color = Color(0.425565, 0.466354, 0.202723, 1)

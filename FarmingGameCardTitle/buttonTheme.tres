@@ -1,0 +1,29 @@
+[gd_resource type="Theme" load_steps=3 format=3 uid="uid://bgg5d8ptggyry"]
+
+[ext_resource type="StyleBox" uid="uid://5qoh3y148f7o" path="res://Clear.tres" id="1_8bipf"]
+[ext_resource type="StyleBox" uid="uid://c3gkkpjtyjw1m" path="res://SelectedAnimation.tres" id="2_kuh88"]
+
+[resource]
+Button/colors/font_color = Color(0, 0, 0, 1)
+Button/colors/font_disabled_color = Color(0, 0, 0, 1)
+Button/colors/font_focus_color = Color(0, 0, 0, 1)
+Button/colors/font_hover_color = Color(0, 0, 0, 1)
+Button/colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+Button/colors/font_outline_color = Color(0, 0, 0, 1)
+Button/colors/font_pressed_color = Color(0, 0, 0, 1)
+Button/colors/icon_disabled_color = Color(0, 0, 0, 1)
+Button/colors/icon_focus_color = Color(0, 0, 0, 1)
+Button/colors/icon_hover_color = Color(0, 0, 0, 1)
+Button/colors/icon_hover_pressed_color = Color(0, 0, 0, 1)
+Button/colors/icon_normal_color = Color(0, 0, 0, 1)
+Button/colors/icon_pressed_color = Color(0, 0, 0, 1)
+Button/constants/h_separation = 0
+Button/constants/icon_max_width = 0
+Button/constants/outline_size = 0
+Button/font_sizes/font_size = 16
+Button/fonts/font = null
+Button/styles/disabled = ExtResource("1_8bipf")
+Button/styles/focus = ExtResource("1_8bipf")
+Button/styles/hover = ExtResource("1_8bipf")
+Button/styles/normal = ExtResource("1_8bipf")
+Button/styles/pressed = ExtResource("2_kuh88")

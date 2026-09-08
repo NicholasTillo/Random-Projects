@@ -12,7 +12,6 @@ public partial class main : Node
 	{
 	
 	}
-
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
 	public override void _Process(double delta)
 	{
@@ -67,6 +66,7 @@ public partial class main : Node
 		// Create a new instance of the Mob scene.
 		//GD.Print("MAKE MOB"); 
 		Enemy mob = MobScene.Instantiate<Enemy>();
+
 
 		// Choose a random location on Path2D.
 		var mobSpawnLocation = GetNode<PathFollow2D>("MobPath/MobSpawnLocation");

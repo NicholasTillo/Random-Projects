@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://c241d7e80ho2u"]
+
+[ext_resource type="Texture2D" uid="uid://cecvta1xo1d7h" path="res://minecraft-zombie-w1LVvw1-600.jpg" id="1_mige2"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_asky1"]
+
+[node name="John" type="Node2D"]
+
+[node name="Area2D" type="Area2D" parent="."]
+scale = Vector2(0.125, 0.125)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+scale = Vector2(29.975, 29.975)
+shape = SubResource("RectangleShape2D_asky1")
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D"]
+texture = ExtResource("1_mige2")

@@ -1,0 +1,20 @@
+{
+	"Plants":[
+		{
+			"Name": "Cabbage",
+			"GrowingTime": 3,
+			"Animation":"Growing_Cabbage"
+		},
+		{
+			"Name": "Pepper",
+			"GrowingTime": 4,
+			"Animation":"Growing_Pepper"
+		},
+		{
+			"Name": "Potato",
+			"GrowingTime": 12,
+			"Animation":"Growing_Potato"
+		}
+
+	]
+}

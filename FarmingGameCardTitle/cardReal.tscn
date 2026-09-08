@@ -1,0 +1,43 @@
+[gd_scene load_steps=5 format=3 uid="uid://dxq5j12ak8dmw"]
+
+[ext_resource type="Script" path="res://cardReal.cs" id="1_fdng3"]
+[ext_resource type="Theme" uid="uid://j7mxyxkqqbdg" path="res://cardTheme.tres" id="1_obdt0"]
+[ext_resource type="Texture2D" uid="uid://cdxvrl5bkj3d7" path="res://ArtAssets/ad21db2b9deff462fff2636440140cc8.png" id="2_q3jti"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vr37o"]
+size = Vector2(52.4659, 55.0384)
+
+[node name="Control" type="Control"]
+custom_minimum_size = Vector2(50, 50)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(3.098, 4)
+mouse_filter = 1
+script = ExtResource("1_fdng3")
+
+[node name="Colour" type="ColorRect" parent="."]
+layout_mode = 0
+color = Color(1, 0.411765, 1, 0.27451)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+theme = ExtResource("1_obdt0")
+text = "State"
+
+[node name="Detector" type="Area2D" parent="."]
+scale = Vector2(0.989079, 1.09623)
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Detector"]
+position = Vector2(25.9261, 27.7269)
+shape = SubResource("RectangleShape2D_vr37o")
+
+[node name="Card" type="Sprite2D" parent="Detector"]
+position = Vector2(1.54972e-06, 0)
+scale = Vector2(0.0618434, 0.0490567)
+texture = ExtResource("2_q3jti")
+centered = false
+
+[connection signal="body_entered" from="Detector" to="." method="OnBodyEnter"]

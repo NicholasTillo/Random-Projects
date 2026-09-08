@@ -1,0 +1,43 @@
+name: Scrape jobs
+
+# Workflows are only read from the repo root, so this lives here rather than in
+# JobScraper/. Everything it runs happens inside that directory.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6h, off the hour to dodge the scheduler stampede
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: JobScraper
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+      - run: python test_scrape.py
+
+      - run: python scrape.py
+        env:
+          # Previous run's state. 404 on the very first run is expected and handled.
+          SEEN_URL: https://raw.githubusercontent.com/${{ github.repository }}/jobs-data/seen.json
+
+      # Publish as a fresh single-commit branch. Appending ~65KB four times a day
+      # would add ~90MB of git history a year for data nobody will ever diff.
+      - name: Publish feed
+        run: |
+          cd out
+          git init -q -b jobs-data
+          git add -A
+          git -c user.email=actions@github.com -c user.name=github-actions \
+              commit -qm "jobs $(date -u +%FT%TZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" jobs-data

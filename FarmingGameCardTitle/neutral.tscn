@@ -1,0 +1,83 @@
+[gd_scene load_steps=9 format=3 uid="uid://otyvq7iq21mr"]
+
+[ext_resource type="Texture2D" uid="uid://cbn6gbmhs1i4m" path="res://ArtAssets/pixel-grass-texture-background-green-retro-square-vector-39790576.jpg" id="1_jwu02"]
+[ext_resource type="Script" path="res://Neutral.cs" id="1_odquc"]
+[ext_resource type="Texture2D" uid="uid://cfhr7887fpveb" path="res://skeleton.jpg" id="2_btoo2"]
+[ext_resource type="Texture2D" uid="uid://benoljgmot32o" path="res://Lilypad.png" id="3_dybjj"]
+[ext_resource type="Script" path="res://GrowthManager.cs" id="4_oshp7"]
+[ext_resource type="Theme" uid="uid://bgg5d8ptggyry" path="res://buttonTheme.tres" id="5_emkh6"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_fj6ak"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_772cc"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_btoo2")
+}],
+"loop": true,
+"name": &"Growing_Peppers",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_dybjj")
+}],
+"loop": true,
+"name": &"Grown",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_jwu02")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_jwu02")
+}],
+"loop": true,
+"name": &"Neutral",
+"speed": 5.0
+}]
+
+[node name="Neutral" type="Area2D" groups=["FarmSpaces"]]
+z_index = 2
+position = Vector2(3.8147e-06, 0)
+scale = Vector2(5.14627, 5.85279)
+collision_layer = 2
+script = ExtResource("1_odquc")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_fj6ak")
+
+[node name="GrassSprite" type="AnimatedSprite2D" parent="CollisionShape2D2"]
+scale = Vector2(0.0202268, 0.0187444)
+sprite_frames = SubResource("SpriteFrames_772cc")
+animation = &"Neutral"
+
+[node name="Control" type="Control" parent="CollisionShape2D2"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -9.88795
+offset_top = -9.75279
+offset_right = 30.112
+offset_bottom = 30.2472
+scale = Vector2(0.50473, 0.460256)
+mouse_filter = 1
+
+[node name="Button" type="Button" parent="CollisionShape2D2/Control"]
+layout_mode = 0
+offset_right = 30.0
+offset_bottom = 5.0
+scale = Vector2(1.31513, 7.87655)
+mouse_filter = 1
+theme = ExtResource("5_emkh6")
+metadata/_edit_use_anchors_ = true
+
+[node name="GrowthManager" type="Node" parent="."]
+script = ExtResource("4_oshp7")
+
+[node name="GrowthTimer" type="Timer" parent="GrowthManager"]
+
+[connection signal="input_event" from="." to="." method="OnInputEvent"]
+[connection signal="button_down" from="CollisionShape2D2/Control/Button" to="GrowthManager" method="OnButtonButtonDown"]
+[connection signal="timeout" from="GrowthManager/GrowthTimer" to="GrowthManager" method="OnGrowthTimerTimeout"]

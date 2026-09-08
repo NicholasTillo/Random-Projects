@@ -1,0 +1,68 @@
+# Filtering rules. Edit here or in gui.py -- no code changes needed.
+# These run against FULL job descriptions during the scrape. The search box on the
+# website can only match what gets published (title + snippet + tags), so anything
+# you want to search deeply has to be a keyword here.
+
+max_age_days = 45      # drop postings older than this
+snippet_chars = 300    # context shipped per job for the UI
+
+# Internship / new-grad patterns are matched against the TITLE ONLY.
+# Matching them against descriptions floods results with senior roles that merely
+# mention "our interns" somewhere in the boilerplate.
+match_internships = true
+
+# Free-text keywords: the terms you care about. A keyword is tagged onto a posting
+# when it appears in the title, or is used at least twice in the description --
+# a single passing mention in 5000 words of boilerplate means nothing.
+keywords = [
+    "python",
+    "machine learning",
+    "data engineer",
+    "backend",
+    "distributed systems",
+    "Game",
+    "Developer",
+    "new grad",
+    "intern",
+]
+
+# false: keywords NARROW the internship feed -- they tag results so you can filter by
+#        "python" on the site, but a keyword alone never pulls in a non-internship.
+# true:  cast a wide net and surface any posting matching a keyword. ~10x the results,
+#        and a lot more noise.
+keyword_only_matches = false
+
+# Only keep postings matching one of these locations. Empty = anywhere. Matched
+# word-boundaried against every location a board reports, including Ashby's
+# "Remote (Canada)" secondary offices. List cities AND the country -- boards
+# disagree on format. Avoid 2-letter codes: "CA" is California on most boards.
+locations = [
+    "Canada",
+    "Toronto",
+    "Vancouver",
+    "Montreal",
+    "Ottawa",
+    "Waterloo",
+    "Kitchener",
+    "Calgary",
+    "Edmonton",
+    "Winnipeg",
+    "Halifax",
+    "Ontario",
+    "British Columbia",
+    "Quebec",
+    "Alberta",
+    "Mississauga",
+]
+
+# Title patterns that disqualify a posting outright.
+exclude = [
+    "senior",
+    "staff",
+    "principal",
+    "director",
+    "manager",
+    "lead",
+    "recruiter",
+    "recruiting",
+]

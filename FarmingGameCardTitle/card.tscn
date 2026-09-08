@@ -1,0 +1,41 @@
+[gd_scene load_steps=3 format=3 uid="uid://cutm0ie3bq8sm"]
+
+[ext_resource type="Theme" uid="uid://beiw06ai4dlsd" path="res://Theme.tres" id="1_etjeu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vpb0d"]
+
+[node name="Card" type="Area2D"]
+scale = Vector2(2.5, 2.5)
+
+[node name="Data" type="Node" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(100.4, 164.4)
+scale = Vector2(2, 4)
+shape = SubResource("RectangleShape2D_vpb0d")
+
+[node name="Background" type="ColorRect" parent="CollisionShape2D"]
+offset_left = -10.2
+offset_top = -10.3
+offset_right = 29.8
+offset_bottom = 65.7
+scale = Vector2(0.504, 0.268)
+
+[node name="Label" type="Label" parent="CollisionShape2D/Background"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -17.2222
+offset_top = -49.8806
+offset_right = 137.778
+offset_bottom = 88.1194
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(0.201982, 0.377557)
+theme = ExtResource("1_etjeu")
+theme_type_variation = &"HeaderLarge"
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Label"
