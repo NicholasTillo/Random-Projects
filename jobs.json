@@ -1,0 +1,533 @@
+{
+ "generated_at": "2026-09-12T20:34:12+00:00",
+ "boards": 93,
+ "count": 26,
+ "jobs": [
+  {
+   "key": "greenhouse:lyft:8797376002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Data Engineer Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "data engineer",
+    "intern"
+   ],
+   "snippet": "...e is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are ab...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8767697002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...l problems with data and are excited about working in a fast-paced, innovative and collegial environment. We are hiring for a variety of Data Science interns, focusing on the following specialties:&nbsp;&nbsp; Optimization: Construct and fit statistical or optimization models that facilitate automat...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8796054002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "location": "Montreal, Canada",
+   "locations": [
+    "Montreal, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "backend",
+    "intern"
+   ],
+   "snippet": "...e is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are ab...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8767710002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "backend",
+    "intern"
+   ],
+   "snippet": "...e is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are ab...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8797859002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...e is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are ab...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8802332002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...shing domain with a lot of data and creative solutions in Marketplace, Mapping, Fraud, Growth and beyond. We're actively building the next-generation Machine Learning (ML) platform for low-cost, ultra-immersive transportation to improve people’s lives using modern ML with peta-byte scale data. Our M...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8767534002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+   "location": "Montreal, Canada",
+   "locations": [
+    "Montreal, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...e aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. &nbsp; As a Test Automation Intern at Lyft, you'll collaborate closely with industry-leading engineers while enjoying the freedom to innovate from day one. Your contributions wil...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:lyft:8797069002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "UX Research Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
+   "posted_at": "2026-09-11",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...ltivating a work environment where all team members belong and have the opportunity to thrive. Lyft is seeking a qualitative User Experience Research Intern to join our team, which aspires to elevate the user experience for our drivers and riders across 300+ cities nationwide. You will conduct resea...",
+   "is_new": false,
+   "first_seen": "2026-09-11"
+  },
+  {
+   "key": "greenhouse:d2l:8188363",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Business Insights & Analytics Coordinator - Winter 2027 Co-op",
+   "location": "Kitchener, Ontario",
+   "locations": [
+    "Kitchener, Ontario"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8188363&gh_jid=8188363",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8180472",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Global Events Coordinator - Winter 2027 Co-op",
+   "location": "Kitchener, ON",
+   "locations": [
+    "Kitchener, ON"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8180472&gh_jid=8180472",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8188350",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Infrastructure Coordinator, Winter 2027 Co-op",
+   "location": "Kitchener, Ontario",
+   "locations": [
+    "Kitchener, Ontario"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8188350&gh_jid=8188350",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8174536",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Knowledge Specialist - Winter 2027 Co-op",
+   "location": "Kitchener, Ontario",
+   "locations": [
+    "Kitchener, Ontario"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8174536&gh_jid=8174536",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8174669",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Product Support Analyst - Winter 2027 Co-op",
+   "location": "Kitchener, Ontario",
+   "locations": [
+    "Kitchener, Ontario"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8174669&gh_jid=8174669",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8180595",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Revenue Marketing Coordinator - Winter 2027 Co-op",
+   "location": "Kitchener, ON",
+   "locations": [
+    "Kitchener, ON"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8180595&gh_jid=8180595",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8174229",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Software Developer - Winter 2027 Co-op",
+   "location": "Kitchener, Ontario",
+   "locations": [
+    "Kitchener, Ontario"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal",
+    "Developer"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8174477",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Test Developer- Winter 2027 Co-op",
+   "location": "Kitchener, ON",
+   "locations": [
+    "Kitchener, ON"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal",
+    "Developer"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8180678",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "User Experience Researcher - Winter 2027 Co-op",
+   "location": "Kitchener, ON or Winnipeg, MB",
+   "locations": [
+    "Kitchener, ON or Winnipeg, MB"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8180678&gh_jid=8180678",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "greenhouse:d2l:8189560",
+   "ats": "greenhouse",
+   "company": "D2L",
+   "title": "Web Experience Coordinator - Winter 2027 Co-op",
+   "location": "Kitchener, ON",
+   "locations": [
+    "Kitchener, ON"
+   ],
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8189560&gh_jid=8189560",
+   "posted_at": "2026-09-09",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "..., summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. Are you eligible for co-op at D2L? Our co-op roles are open to applicants who are: Currently enrolled in a post-secondary program, and will not graduate prior to this co-o...",
+   "is_new": false,
+   "first_seen": "2026-09-09"
+  },
+  {
+   "key": "ashby:wealthsimple:3f324be6-87bf-4352-a098-bde635287f9c",
+   "ats": "ashby",
+   "company": "Wealthsimple",
+   "title": "Intern, Capital Markets (8 month term)",
+   "location": "Remote (Canada)",
+   "locations": [
+    "Remote (Canada)",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/wealthsimple/3f324be6-87bf-4352-a098-bde635287f9c",
+   "posted_at": "2026-09-08",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...et Profile: Currently pursuing a degree in Business, Finance, STEM or a related field (targeting 3rd/4th year students or recent graduates with prior internship/work experience).\n   \n   🤑 Base salary range: For this role, candidates located in Canada can expect a base salary range, described in the...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "ashby:wealthsimple:50dcb3a5-b896-42c6-8173-0f6a95718ead",
+   "ats": "ashby",
+   "company": "Wealthsimple",
+   "title": "Intern, Finance",
+   "location": "Toronto, Ontario",
+   "locations": [
+    "Toronto, Ontario",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/wealthsimple/50dcb3a5-b896-42c6-8173-0f6a95718ead",
+   "posted_at": "2026-09-08",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": ".... Read our Culture Manual https://www.wealthsimple.com/en-ca/culture and learn more about how we work https://www.wealthsimple.com/en-ca/careers.\n\n\n\n\nINTERN, FINANCE (WINTER 2027, 8 MONTHS)\n\nTerm: 8 months, beginning January 11, 2027. Six tracks, one application.\n\nAbout Finance at Wealthsimple\n\nThe...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "ashby:wealthsimple:c4cea9f1-950e-4035-83a8-7126b72b3a28",
+   "ats": "ashby",
+   "company": "Wealthsimple",
+   "title": "Credit & Fraud Analytics Intern (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "locations": [
+    "Toronto, Ontario",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
+   "posted_at": "2026-09-03",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": ".... Read our Culture Manual https://www.wealthsimple.com/en-ca/culture and learn more about how we work https://www.wealthsimple.com/en-ca/careers.\n\n\n\n\nINTERNSHIPS @ WEALTHSIMPLE\n\nCredit & Fraud Analytics Intern (Winter 2027)\n\nLocation: Toronto, ON (Hybrid)\n\nAt Wealthsimple, we offer 4 to 8-month inte...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "ashby:wealthsimple:de09418a-8a12-46aa-a371-34bafaf5be26",
+   "ats": "ashby",
+   "company": "Wealthsimple",
+   "title": "Software Development and Data Science Internships (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "locations": [
+    "Toronto, Ontario",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26",
+   "posted_at": "2026-08-31",
+   "tags": [
+    "internship",
+    "seasonal",
+    "python",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": ".... Read our Culture Manual https://www.wealthsimple.com/en-ca/culture and learn more about how we work https://www.wealthsimple.com/en-ca/careers.\n\n\n\n\nINTERNSHIPS @ WEALTHSIMPLE\n\nLocation: Toronto, ON (Hybrid)\n\nWe offer 4-8 month internships designed for co-op students, non-co-op students, and recent...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "ashby:wealthsimple:272ea39d-c94e-4400-956a-bbe8d40461b3",
+   "ats": "ashby",
+   "company": "Wealthsimple",
+   "title": "Design Intern (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "locations": [
+    "Toronto, Ontario",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3",
+   "posted_at": "2026-08-31",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": ".... Read our Culture Manual https://www.wealthsimple.com/en-ca/culture and learn more about how we work https://www.wealthsimple.com/en-ca/careers.\n\n\n\n\nINTERNSHIPS @ WEALTHSIMPLE\n\nDesign Intern (Winter 2027 - 8 month term)\n\nLocation: Toronto, ON (Hybrid)\n\nAt Wealthsimple, we offer 4 to 8-month interns...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "greenhouse:stripe:8130805",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "posted_at": "2026-08-31",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. What you’ll do As an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate. You’ll own problems end to end...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "greenhouse:stripe:8157838",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Software Engineer, New Grad",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+   "posted_at": "2026-08-31",
+   "tags": [
+    "new-grad",
+    "new grad"
+   ],
+   "snippet": "..., even in the absence of consensus. Minimum requirements A Bachelor’s or Master’s degree in computer science or a directly related field, obtained by summer 2027, or equivalent work experience; New grad candidates should have no more than 18 months of professional experience (excluding internship ex...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  },
+  {
+   "key": "ashby:klue:583c1739-ee22-4e90-860d-674ae9284544",
+   "ats": "ashby",
+   "company": "Klue",
+   "title": "Program Management Associate, Intern",
+   "location": "Vancouver, British Columbia",
+   "locations": [
+    "Vancouver, British Columbia",
+    "Canada",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/klue/583c1739-ee22-4e90-860d-674ae9284544",
+   "posted_at": "2026-08-27",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...roles of our ever-growing client-base. We are excited about what the future holds ahead for us and our clients!\n\n\n\nAs a Program Management Associate, Intern, you'll operate at the intersection of win-loss research, B2B technology programs, and qualitative research recruitment operations. You'll leve...",
+   "is_new": false,
+   "first_seen": "2026-09-08"
+  }
+ ]
+}
