@@ -1,0 +1,390 @@
+{
+ "generated_at": "2026-11-07T13:02:00+00:00",
+ "boards": 91,
+ "count": 19,
+ "jobs": [
+  {
+   "key": "greenhouse:hootsuite:8359242",
+   "ats": "greenhouse",
+   "company": "Hootsuite",
+   "title": "Co-op/Intern, DevOps - Winter 2027",
+   "location": "Alberta, British Columbia",
+   "locations": [
+    "Alberta, British Columbia"
+   ],
+   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359242",
+   "posted_at": "2026-11-06",
+   "tags": [
+    "internship",
+    "co-op",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "Job Title: Co-op/Intern, DevOps (Winter 2027 Term) Location : Alberta or British Columbia (Remote)&nbsp; Term : 4 months Start Date: January 4, 2027 Openings : 1&nbsp; Role Specifics&nbsp; We’re looking for an individual who is passionate about DevOps and eager to learn and grow their skills in the...",
+   "is_new": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "key": "greenhouse:hootsuite:8360176",
+   "ats": "greenhouse",
+   "company": "Hootsuite",
+   "title": "Co-op/Intern, Software Development - Winter 2027",
+   "location": "Vancouver, BC, Toronto, ON",
+   "locations": [
+    "Vancouver, BC, Toronto, ON"
+   ],
+   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
+   "posted_at": "2026-11-06",
+   "tags": [
+    "internship",
+    "co-op",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "Job Title: Co-op/Intern, Software Development (Winter 2027 Term) Location : Vancouver, BC or Toronto, ON (Hybrid) Term : 4 months Start Date: January 4, 2027 Openings : 1 This Job is for Students pursuing a Career in Computer Science, Software Development or a related field.&nbsp; You'll work on a t...",
+   "is_new": false,
+   "first_seen": "2026-11-07"
+  },
+  {
+   "key": "greenhouse:stripe:8332683",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Product Design Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+   "posted_at": "2026-11-05",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...(especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. About the Team Our internship program is structured to provide interns with the opportunity to work on real projects that our customers urgently need. In this role you w...",
+   "is_new": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "key": "lever:policyme:ce404599-2a89-432c-b1e3-040cb611ebd2",
+   "ats": "lever",
+   "company": "PolicyMe",
+   "title": "Business Development Representative (Queen's University)",
+   "location": "Remote in Toronto",
+   "locations": [
+    "Remote in Toronto"
+   ],
+   "url": "https://jobs.lever.co/policyme/ce404599-2a89-432c-b1e3-040cb611ebd2",
+   "posted_at": "2026-11-03",
+   "tags": [
+    "university"
+   ],
+   "snippet": "Overview:\nWe’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big am",
+   "is_new": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "key": "greenhouse:stripe:8333122",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Master's Machine Learning Engineer, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "posted_at": "2026-10-30",
+   "tags": [
+    "internship",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...recedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do About the internship Stripe's Applied ML, Data Science, Risk, and Payments organizations are excited to offer Master's machine learning engineering internships...",
+   "is_new": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "key": "greenhouse:stripe:8328664",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "PhD Machine Learning Engineer, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+   "posted_at": "2026-10-30",
+   "tags": [
+    "internship",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...recedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do About the internship Stripe's Applied ML, Data Science, Risk, and Payments organizations are excited to offer PhD machine learning engineering internships for t...",
+   "is_new": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "key": "ashby:cohere:f3290fb2-66f1-44c7-9824-3f416f44af5a",
+   "ats": "ashby",
+   "company": "Cohere",
+   "title": "Revenue Operations Intern (Winter, 2027)",
+   "location": "Toronto",
+   "locations": [
+    "Toronto",
+    "Canada",
+    "New York",
+    "United States",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a",
+   "posted_at": "2026-10-26",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...ructure and automated reporting needed to support these changes and improve visibility across go-to-market and finance teams.\n\nRole Description\n\nThis intern will support Revenue Operations data infrastructure and automation, including data enrichment and management, building and updating data pipeli...",
+   "is_new": false,
+   "first_seen": "2026-10-26"
+  },
+  {
+   "key": "ashby:1password:71e986eb-3b58-4c3c-adff-aebdb49a34b7",
+   "ats": "ashby",
+   "company": "1Password",
+   "title": "IT Intern, IT Support - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "locations": [
+    "Remote (United States | Canada)",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7",
+   "posted_at": "2026-10-23",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...combine hands-on troubleshooting with modern tools, AI, and workflow automation to resolve issues and elevate the overall employee experience. As an intern on our team, you’ll work alongside experienced engineers to learn how support operations run, tackle real user requests, and help build smarter...",
+   "is_new": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "key": "ashby:1password:bef2e88e-9590-467d-8ba6-821b30529003",
+   "ats": "ashby",
+   "company": "1Password",
+   "title": "Product Management Intern, End User Experience - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "locations": [
+    "Remote (United States | Canada)",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+   "posted_at": "2026-10-23",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...ent, then we want to hear from you. Come join us and help shape a safer, simpler digital future.\n\n\n\nWe're looking for a promising new Product Manager Intern who is excited about gaining hands-on experience in a friendly and fast-paced environment. At 1Password, the Product Management organization pl...",
+   "is_new": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "key": "ashby:1password:aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+   "ats": "ashby",
+   "company": "1Password",
+   "title": "Security Intern, Threat Operations - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "locations": [
+    "Remote (United States | Canada)",
+    "Remote"
+   ],
+   "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+   "posted_at": "2026-10-22",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...ncident Response. Together we study how threat actors operate, turn that into high-quality detections, and respond quickly when something goes wrong. Interns work across all three teams, with time and focus shaped by your interests and our needs, so you see how intelligence becomes real defense. We...",
+   "is_new": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "key": "greenhouse:later:8889650002",
+   "ats": "greenhouse",
+   "company": "Later",
+   "title": "Data Science Co-op",
+   "location": "Vancouver, British Columbia, Canada",
+   "locations": [
+    "Vancouver, British Columbia, Canada"
+   ],
+   "url": "https://job-boards.greenhouse.io/later/jobs/8889650002",
+   "posted_at": "2026-10-14",
+   "tags": [
+    "co-op"
+   ],
+   "snippet": "...d performance so campaigns don’t just look good—they deliver results. Learn more at later.com . About this position: Later is looking for a full-time co-op starting January 2027 to help support the product team; you will be working on new product features and having a meaningful impact on the compan...",
+   "is_new": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "key": "greenhouse:lyft:8862215002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
+   "location": "Longueuil, Canada",
+   "locations": [
+    "Longueuil, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
+   "posted_at": "2026-10-02",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "..., and today builds the bikes and stations behind some of the world's largest bikeshare networks. We are looking for a Hardware Field Quality Engineer Intern to join our Field Quality team at our Longueuil facility. Once our bikes, e-bikes, batteries, and stations leave the factory, Field Quality own...",
+   "is_new": false,
+   "first_seen": "2026-10-02"
+  },
+  {
+   "key": "greenhouse:stripe:8194287",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Data Analyst, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+   "posted_at": "2026-10-01",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...ta Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you’ll do As an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate. You’ll own problems end to end...",
+   "is_new": false,
+   "first_seen": "2026-10-01"
+  },
+  {
+   "key": "greenhouse:stripe:8194285",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "PhD Data Scientist, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+   "posted_at": "2026-10-01",
+   "tags": [
+    "internship",
+    "python",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...a products, and insights needed to make decisions and grow responsibly. We're looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our Fraud, Losses, and Financial Crime Data Science team builds the...",
+   "is_new": false,
+   "first_seen": "2026-10-01"
+  },
+  {
+   "key": "greenhouse:pinterest:8138080",
+   "ats": "greenhouse",
+   "company": "Pinterest",
+   "title": "Machine Learning Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "locations": [
+    "Toronto, ON, CA"
+   ],
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+   "posted_at": "2026-10-01",
+   "tags": [
+    "internship",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...ot just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . As a Machine Learning Intern at Pinterest, you’ll apply machine learning and AI to product and engineering challenges. You’ll work with engineering, produc...",
+   "is_new": false,
+   "first_seen": "2026-10-01"
+  },
+  {
+   "key": "greenhouse:pinterest:8138039",
+   "ats": "greenhouse",
+   "company": "Pinterest",
+   "title": "Software Engineering Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "locations": [
+    "Toronto, ON, CA"
+   ],
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+   "posted_at": "2026-10-01",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": ".... You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We’re looking for inquisitive, collaborative interns to join our engineering teams. Working closely with mentors and product, design, data, and engineers, you’ll learn how large‑scale systems ope...",
+   "is_new": false,
+   "first_seen": "2026-10-01"
+  },
+  {
+   "key": "greenhouse:lyft:8802222002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
+   "posted_at": "2026-09-28",
+   "tags": [
+    "internship",
+    "seasonal",
+    "python",
+    "intern"
+   ],
+   "snippet": "...g and have the opportunity to thrive. We are seeking a motivated, technical student to join our Corporate FinTech team as a Business Systems Engineer Intern. This internship offers hands-on experience supporting the full suite of FinTech applications, modernizing finance and business operations thro...",
+   "is_new": false,
+   "first_seen": "2026-09-28"
+  },
+  {
+   "key": "greenhouse:lyft:8817930002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Industrialization Engineer Intern (Summer 2027)",
+   "location": "Longueuil, Canada",
+   "locations": [
+    "Longueuil, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
+   "posted_at": "2026-09-28",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...stem, and today builds the bikes and stations behind some of the world's largest bikeshare networks. We are looking for an Industrialization Engineer Intern to join our Manufacturing &amp; Quality Engineering team at our Longueuil factory. You will work on the production floor with assembly, warehou...",
+   "is_new": false,
+   "first_seen": "2026-09-28"
+  },
+  {
+   "key": "greenhouse:lyft:8817900002",
+   "ats": "greenhouse",
+   "company": "Lyft",
+   "title": "Content Design Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "locations": [
+    "Toronto, Canada"
+   ],
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
+   "posted_at": "2026-09-24",
+   "tags": [
+    "internship",
+    "seasonal",
+    "intern"
+   ],
+   "snippet": "...gn, who create and own language across Lyft's in-app experiences that help customers succeed on the Lyft platform. We're looking for a Content Design intern to join our team for the summer. This role will both help design and build our internal content system (think information architecture), and em...",
+   "is_new": false,
+   "first_seen": "2026-09-24"
+  }
+ ]
+}
