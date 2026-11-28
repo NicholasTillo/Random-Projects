@@ -1,0 +1,106 @@
+{
+ "generated_at": "2026-11-28T07:50:04+00:00",
+ "boards": 91,
+ "count": 5,
+ "jobs": [
+  {
+   "key": "greenhouse:roblox:8386080",
+   "ats": "greenhouse",
+   "company": "Roblox",
+   "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+   "location": "Vancouver, British Columbia, Canada",
+   "locations": [
+    "Vancouver, British Columbia, Canada"
+   ],
+   "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
+   "posted_at": "2026-11-18",
+   "tags": [
+    "internship",
+    "seasonal",
+    "Game",
+    "intern"
+   ],
+   "snippet": "...action, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. As a Software Engineer Intern on our Engine team, you will be mentored by industry veterans from the video game and real-time simulation sectors. Over 12 weeks, we will prov...",
+   "is_new": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "key": "lever:magnetforensics:21c3d181-2751-4255-8084-f82cdc799483",
+   "ats": "lever",
+   "company": "Magnet Forensics",
+   "title": "Information Security Analyst Co-op (Winter 2027)",
+   "location": "Waterloo / Ottawa / Ontario",
+   "locations": [
+    "Waterloo / Ottawa / Ontario"
+   ],
+   "url": "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
+   "posted_at": "2026-11-10",
+   "tags": [
+    "co-op",
+    "seasonal"
+   ],
+   "snippet": "...o join our team working towards this goal, we would love to hear from you! \n\n\nRole Summary\nReporting to the Director, Cyber Security Operations, this co-op role operates across security operations, network engineering, and AI-driven automation.\nThis is a hands-on role where you will work directly wi...",
+   "is_new": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "key": "greenhouse:stripe:8332683",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Product Design Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+   "posted_at": "2026-11-05",
+   "tags": [
+    "internship",
+    "intern"
+   ],
+   "snippet": "...(especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. About the Team Our internship program is structured to provide interns with the opportunity to work on real projects that our customers urgently need. In this role you w...",
+   "is_new": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "key": "greenhouse:stripe:8333122",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "Master's Machine Learning Engineer, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "posted_at": "2026-10-30",
+   "tags": [
+    "internship",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...recedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do About the internship Stripe's Applied ML, Data Science, Risk, and Payments organizations are excited to offer Master's machine learning engineering internships...",
+   "is_new": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "key": "greenhouse:stripe:8328664",
+   "ats": "greenhouse",
+   "company": "Stripe",
+   "title": "PhD Machine Learning Engineer, Intern",
+   "location": "Toronto",
+   "locations": [
+    "Toronto"
+   ],
+   "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+   "posted_at": "2026-10-30",
+   "tags": [
+    "internship",
+    "machine learning",
+    "intern"
+   ],
+   "snippet": "...recedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do About the internship Stripe's Applied ML, Data Science, Risk, and Payments organizations are excited to offer PhD machine learning engineering internships for t...",
+   "is_new": false,
+   "first_seen": "2026-10-30"
+  }
+ ]
+}
